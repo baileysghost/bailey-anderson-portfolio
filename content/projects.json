@@ -1,0 +1,121 @@
+[
+  {
+    "slug": "algogemix",
+    "name": "AlgoGemix",
+    "category": "Trading systems",
+    "group": "Engineering",
+    "status": "Commercial product",
+    "summary": "A NinjaTrader 8 suite for strategy automation, position sizing and hands-on trade management.",
+    "tags": [
+      "C#",
+      "NinjaScript",
+      "NinjaTrader 8"
+    ],
+    "problem": "A trader needs to size a position, inspect a signal and intervene in an automated strategy while the market keeps moving.",
+    "role": "I developed the trading tools and designed the commercial licensing and affiliate workflows.",
+    "solution": "GridPro handles strategy automation. AdvancedRiskReward brings position sizing and risk management into the trading workflow. PairZScore adds a statistical view of a pair’s relative movement.",
+    "architecture": "NinjaScript components run inside NinjaTrader 8. The suite includes VolumeSpike, WaveTrend, ADXReversal, TiltPro, DowTheory and Savitzky–Golay filtering. JSON signal exports give external dashboards a data boundary separate from strategy execution.",
+    "ai": "This project demonstrates statistical programming and operator-controlled automation. The documented trading features use rules and indicators. A model-driven execution component has not been established.",
+    "challenge": "Keep human override accessible during automated operation, and separate exportable signals from proprietary trading logic.",
+    "progress": "The suite has a public product site. The Stripe and Supabase affiliate platform is presented as design work.",
+    "links": [
+      [
+        "Product website",
+        "https://algogemix.com"
+      ]
+    ]
+  },
+  {
+    "slug": "paranormal-atlas",
+    "name": "Paranormal Atlas",
+    "category": "Agentic research",
+    "group": "AI systems",
+    "status": "Active development",
+    "summary": "A geographic case archive that brings witness accounts, source material and competing explanations into one view.",
+    "tags": [
+      "Mapbox",
+      "Research agents",
+      "YouTube API"
+    ],
+    "problem": "Accounts of one event can be scattered across interviews, historical records and videos, with conflicting descriptions repeated as fact.",
+    "role": "I designed the research workflow, case structure and map-led reading experience.",
+    "solution": "A map opens into a case file with evidence, witness accounts, a timeline and competing explanations. Roughly 850 case concepts form the research backlog.",
+    "architecture": "The workflow moves from agent discovery to source validation, then into structured case records. Mapbox places those records geographically. The YouTube API provides a route to related media. Publishing automation and an illustrated encyclopedia extend the same case structure.",
+    "ai": "Agents assist with discovery, extraction and draft assembly. Source review determines which claims belong in a case and how uncertainty is expressed.",
+    "challenge": "Separate multiple reports of one event from independent corroboration, and keep opposing accounts legible on a phone.",
+    "progress": "The development record includes database and API work, a mobile map shell, a Gemini video adapter and automation job definitions. The roughly 850 research leads await varying levels of review.",
+    "links": []
+  },
+  {
+    "slug": "utopic-dystopia",
+    "name": "Utopic Dystopia",
+    "category": "Game development",
+    "group": "Creative systems",
+    "status": "Working prototype",
+    "summary": "A dark-fantasy RPG where cards discovered in the world become the pieces of a tactical 3D battle.",
+    "tags": [
+      "Godot 4",
+      "JSON",
+      "OpenAI Codex"
+    ],
+    "problem": "Exploration and card combat need to feel like two parts of the same campaign. A card found in the environment needs a clear use on the board.",
+    "role": "I direct game design, campaign structure, card design and the Godot prototype, working with AI coding agents.",
+    "solution": "A Gwent-inspired 3D battle prototype anchors the game. More than 100 cards have been designed. Campaign plans connect character selection, exploration and card discovery to encounters.",
+    "architecture": "JSON-driven card and campaign data provide a shared vocabulary for combat and progression. Godot scenes represent the board and world. Development is organized through GitHub.",
+    "ai": "Coding agents assist with prototype iteration. Concept art explores how a location should feel before it becomes a playable environment.",
+    "challenge": "Make card abilities readable on a 3D board while keeping the board visually grounded in the world.",
+    "progress": "3D battle prototype. Baz Abbot is the initial leader. Pre-level character selection and world discovery belong to the wider campaign design.",
+    "links": []
+  },
+  {
+    "slug": "dk-foods",
+    "name": "DK Foods Wholesale",
+    "category": "Commercial automation",
+    "group": "AI systems",
+    "status": "Integration in development",
+    "summary": "A wholesale operations suite designed to surface time-sensitive orders, invoices and procurement opportunities.",
+    "tags": [
+      "Hermes Agent",
+      "WhatsApp",
+      "Multi-model routing"
+    ],
+    "problem": "An important order can look like an ordinary email. Staff need an alert while their inbox still shows which messages they have personally opened.",
+    "role": "I mapped the distributor’s operations and designed the agent deployment, classification and notification workflows.",
+    "solution": "The design monitors incoming mail, flags orders and invoices, and routes important notifications to WhatsApp. Separate research tasks cover government procurement, restaurant leads and recurring reports.",
+    "architecture": "Hermes Agent configuration connects inbox monitoring, model-based classification and a notification destination. The design preserves unread state. Legacy order entry is a later integration with a human review point.",
+    "ai": "Multi-model orchestration assigns routine screening and higher-judgment research different inference budgets.",
+    "challenge": "Keep alerts actionable while protecting customer information and controlling recurring inference costs.",
+    "progress": "Deployment and integration work is in progress. Production delivery, throughput and savings have not been verified.",
+    "links": []
+  },
+  {
+    "slug": "nations-ghost",
+    "name": "Nation’s Ghost & Baileys Ghost",
+    "category": "Music & moving image",
+    "group": "Creative systems",
+    "status": "Released work",
+    "summary": "Original records, cinematic music videos and short-form campaigns built around two artist projects.",
+    "tags": [
+      "Pro Tools",
+      "Generative video",
+      "Ableton Live"
+    ],
+    "problem": "A single song needs a coherent visual identity across a full-length video, cover artwork and many short edits.",
+    "role": "I write and produce as Baileys Ghost and collaborate with DatBoiBaz as Nation’s Ghost. My work spans creative direction, editing, mixing and mastering.",
+    "solution": "Each release starts with the music. Shot concepts, generated sequences and cover art develop its visual language before editorial cuts are made for different channels.",
+    "architecture": "Audio production and mastering feed the video edit. A reusable inventory of clips supports distribution and scheduling across both artist identities.",
+    "ai": "Generative video and image tools support shot development, artwork and visual continuity. Editing and audio decisions stay tied to the song.",
+    "challenge": "Maintain recognizable characters and a consistent mood across separately generated shots, then find a short edit that still carries the song.",
+    "progress": "Released music and ongoing production. My production inventory includes approximately ten full-length videos and hundreds of promotional assets.",
+    "links": [
+      [
+        "Nation’s Ghost music",
+        "https://fanlink.tv/nationsghostmusic"
+      ],
+      [
+        "Baileys Ghost music",
+        "https://fanlink.tv/apple-spotify-baileysghost"
+      ]
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "Agents & models": [
+    "OpenAI Codex",
+    "ChatGPT",
+    "Claude",
+    "Gemini",
+    "Hermes Agent",
+    "Nous Portal",
+    "MiniMax",
+    "GLM",
+    "Multi-model orchestration",
+    "Prompt engineering",
+    "Autonomous agents"
+  ],
+  "Languages & frameworks": [
+    "Python",
+    "JavaScript",
+    "C#",
+    "NinjaScript",
+    "Pine Script",
+    "Ruby",
+    "HTML/CSS",
+    "Django",
+    "Node.js"
+  ],
+  "Platforms & integrations": [
+    "Supabase",
+    "Stripe",
+    "GitHub",
+    "Vercel",
+    "REST APIs",
+    "JSON",
+    "Mapbox",
+    "Make.com"
+  ],
+  "Game, audio & moving image": [
+    "Godot",
+    "Unity",
+    "Suno",
+    "Google Veo",
+    "Higgsfield",
+    "Pika",
+    "Kaiber",
+    "Pro Tools",
+    "Ableton Live"
+  ]
+}

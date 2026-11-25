@@ -1,0 +1,58 @@
+[
+  [
+    "MetalDog Vault",
+    "Digital legacy",
+    "In development",
+    "An encrypted vault designed around what happens to important records after their owner dies. The work explores how to organize private material and model the handoff to a designated recipient.",
+    "Supabase · Application design"
+  ],
+  [
+    "StemMix AI",
+    "Audio engineering",
+    "Concept",
+    "A proposed mixing workflow accepts a ZIP of multitrack stems and returns processed stems alongside a stereo mix. Keeping individual tracks available would let an engineer revise the result inside a session.",
+    "Multitrack audio · AI workflow design"
+  ],
+  [
+    "GhostMix",
+    "Audio software",
+    "In development",
+    "I built a CMake and JUCE scaffold with a VST3 target, pass-through audio and an output-gain control. This first milestone establishes the plug-in signal path. Mastering DSP and Audio Unit support are planned.",
+    "JUCE · VST3 · AU"
+  ],
+  [
+    "UtopicTrail",
+    "Game development",
+    "In development",
+    "An Oregon Trail-inspired survival adventure built around travel decisions and resource pressure. Godot provides the framework for experimenting with encounters and their consequences.",
+    "Godot · Game systems"
+  ],
+  [
+    "NFL Survivor Agent",
+    "Sports research",
+    "Research workflow",
+    "A weekly survivor-pool research design brings injuries, weather and market movement into one comparison of matchup risk. The output is a reasoned pick with assumptions a reader can challenge.",
+    "Research agents · Predictive analysis"
+  ],
+  [
+    "Autonomous Business Research Agents",
+    "Commercial research",
+    "Workflow design",
+    "Recurring agents look for business opportunities and assemble findings into reports. The design centers on defining what qualifies as a lead and giving the reader enough source context to follow up.",
+    "Autonomous agents · Reporting"
+  ],
+  [
+    "Paranormal Encyclopedia",
+    "Illustrated publishing",
+    "Concept",
+    "A print companion to Paranormal Atlas translates case files into illustrated spreads. Phoenix Lights and Dyatlov Pass provide subjects for exploring how maps, chronology and witness accounts can share a page.",
+    "Editorial design · AI-assisted illustration"
+  ],
+  [
+    "Red Phoenix Global",
+    "Client engineering",
+    "Ongoing practice",
+    "My Los Angeles-based company brings full-stack development, paid acquisition and business automation together. Client work connects websites, analytics and internal processes to the way staff actually work.",
+    "Full-stack engineering · Marketing automation"
+  ]
+]
